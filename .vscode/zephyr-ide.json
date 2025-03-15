@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "ESP_Network": {
+      "rel_path": "ESP_Network",
+      "name": "ESP_Network",
+      "buildConfigs": {},
+      "confFiles": {
+        "config": [],
+        "extraConfig": [],
+        "overlay": [],
+        "extraOverlay": []
+      }
+    }
+  }
+}
